@@ -43,7 +43,7 @@ Users can upload images, apply filters in real-time, use preset effects, reset e
 Add a screenshot or GIF here.
 
 ```md
-![Preview](./preview.png)
+![Preview](preview.png)
 ```
 
 ---
