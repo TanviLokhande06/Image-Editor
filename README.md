@@ -40,8 +40,6 @@ Users can upload images, apply filters in real-time, use preset effects, reset e
 
 ## 📸 Preview
 
-Add a screenshot or GIF here.
-
 ![Preview](Image%20Editor/preview.png)
 
 ---
