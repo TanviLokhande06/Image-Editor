@@ -76,7 +76,7 @@ image-editor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TanviLokhande06/Image Editor.git
+git clone https://github.com/TanviLokhande06/Image-Editor.git
 ```
 
 ### 2. Open the project folder
